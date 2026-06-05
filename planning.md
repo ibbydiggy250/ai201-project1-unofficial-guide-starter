@@ -74,6 +74,7 @@
 | # | Question | Expected answer |
 |---|----------|-----------------|
 | 1 |What are students general opinion on Professor Doboli? |Mixed-Negative. Some students say hes knoledgable and caring, but that his teaching style is hard to follow and is difficult for beginners |
+| 2 |Is ESE 124 with Doboli beginner-friendly? |Generally no, Professor Doboli teaches like you should know the class beforehand |
 | 3 |What are the biggest complaints of Professor Dobolis classes? |Unclear lectures, heavy reliance on self learning, and a pace not suitable for beginners |
 | 4 |How do students compare ESE 224 and 124 with Professor Doboli? |224 is just like 124, with slightly harder content and more focused on data structures. |
 | 5 |What is valuable about ESE124 with Professor Doboli? |Learning C fundamentals is nice, his labs give good hands-on support, and the final project connects things together. |
