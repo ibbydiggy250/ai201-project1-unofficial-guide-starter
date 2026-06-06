@@ -1,15 +1,43 @@
-Student Comments
-What was valuable about this course? (5)
-Filter Comments
-Slightly deeper introduction to data structures and algorithms. You are exposed to more algorithms. Maybe you use them for leetcode or what not, who knows. I liked using pseudocode because you get the general idea of what should be implemented without being completely constrained to language syntax.
-The Leetcode questions for sure. I really liked how the course forced me to do practice problems that are used by companies in industry. I also learned a lot on how to solve basic graph problems using Dijktra, DFS, and BFS algorithms using different DS, i.e. hash tables, queues, heaps, stacks, etc.
-There was nothing valuable coming out from this course. The lectures had no connection to the Leetcode problems assigned. Even going to every lecture was completely useless. I walked out from this class without any extra knowledge because it was very poorly organized and taught.
-The leetcode questions the professor provided gave valuable practice on software interviews in the real world.
-There were some good extra credit opportunities to make up for a lot of the course’s difficulties.
-What could be improved about this course? (5)
-Filter Comments
-Course is very textbook heavy. Doboli ends up wasting a lot of time regurgitating from the textbook. Not to say that it doesn't have any effect as you are basically studying for the exam when you sit in his lectures and he goes step by step through the algorithms, but just redrawing exactly in the textbook over and over again seems a bit redundant.
-Not horrible for the professor’s first time teaching this course, but there were a lot of occasions where we were expected to run before we could walk when it came to the Leetcode homework assignments. Lecture could also be more engaging and test runs of actual code samples would help conceptualize everything better.
-The lectures don't particularly feel structured. The professor's pacing is also rather poor too and he seems to stay on the same topic for too long. Exams and homework but felt relatively fair and he doesn't give surprises on his assignments.
-A recitation section or going over leetcode problems would have been useful. The professor just copied the textbook information to the board and expected us to solve LeetCode. Very bad class.
-Continue challenging students with hard questions. Focus less on theoretical and more on practical problem solving as theory is easier to understand after practice.
+# Source: SBU Official Course Evaluation — ESE 344, Professor Alexa Doboli
+
+## What was valuable about this course
+
+Slightly deeper introduction to data structures and algorithms. You are exposed to more algorithms. I liked using pseudocode because you get the general idea of what should be implemented without being completely constrained to language syntax.
+
+---
+
+The LeetCode questions were valuable. I really liked how the course forced me to do practice problems that are used by companies in industry. I also learned a lot on how to solve basic graph problems using Dijkstra, DFS, and BFS algorithms using different data structures such as hash tables, queues, heaps, and stacks.
+
+---
+
+There was nothing valuable coming out from this course. The lectures had no connection to the LeetCode problems assigned. Even going to every lecture was completely useless. I walked out from this class without any extra knowledge because it was very poorly organized and taught.
+
+---
+
+The LeetCode questions the professor provided gave valuable practice for software interviews in the real world.
+
+---
+
+There were some good extra credit opportunities to make up for a lot of the course's difficulties.
+
+---
+
+## What could be improved about this course
+
+Course is very textbook heavy. Doboli ends up wasting a lot of time regurgitating from the textbook. You are basically studying for the exam when you sit in his lectures as he goes step by step through the algorithms, but just redrawing exactly what is in the textbook over and over seems redundant.
+
+---
+
+Not horrible for the professor's first time teaching this course, but there were a lot of occasions where students were expected to run before they could walk when it came to the LeetCode homework assignments. Lecture could also be more engaging and test runs of actual code samples would help conceptualize everything better.
+
+---
+
+The lectures don't feel structured. The professor's pacing is poor and he seems to stay on the same topic for too long. Exams and homework felt relatively fair and he doesn't give surprises on his assignments.
+
+---
+
+A recitation section or going over LeetCode problems would have been useful. The professor just copied the textbook information to the board and expected us to solve LeetCode problems. Very bad class.
+
+---
+
+Continue challenging students with hard questions. Focus less on theoretical and more on practical problem solving, as theory is easier to understand after practice.

@@ -1,3 +1,18 @@
-ESE 124: Took this course with Alexa Doboli. Chill and funny guy, but has really high standards. This was my first experience coding, and we didn’t even do a “Hello World” – in the first lecture we made a calculator out of case statements instead like ???. This is the first programming class in the major, but he acts like you should have already been programming in high school and this is just a review for you. This class was an insane grind, especially getting those labs done. Just imagine never having touched code in your life and going straight to the gulags. It didn’t help that the TAs (who are grad students) usually didn’t even know how to debug the code if you were having trouble in the lab. My CS roommate was an infinitely larger help. The final project is just absolutely fucked with some ant maze shit idek, got a 100 despite BSing it super hard because the TAs are very lenient with the grades. For the exams, make sure you study those practice tests he gives and it helps to guess what extra stuff is going to be on it from any other material given. One of the things he likes to do on the final is program a type of laplace series where he rotates between common ones. BTW DID YOU KNOW HIS SON GOES TO STANFORD 😱😱😱😧😧 ??? 4/10
-ESE 224: Again with Alexa Doboli. More or less the same as 124 but with more difficult content. 3/10
-ESE 344: Took another with Alexa Doboli. This was his first time teaching the class, and it showed. It is taught in a lazy way where the whole class is basically just leetcode. I could have just grinded leetcode instead of taking this class! For the exams, he took the questions out of his own textbook and if you didn’t know that you were screwed. 4/10
+# Source: Reddit r/SBU — ESE Course Reviews (single student, all three courses)
+# Professor: Alexa Doboli
+
+## ESE 124 — Professor Doboli
+
+Took this course with Alexa Doboli. Chill and funny guy, but has really high standards. This was my first experience coding, and we didn't even do a "Hello World" – in the first lecture we made a calculator out of case statements instead. This is the first programming class in the major, but he acts like you should have already been programming in high school and this is just a review for you. This class was an insane grind, especially getting those labs done. It didn't help that the TAs (who are grad students) usually didn't even know how to debug the code if you were having trouble in the lab. The final project is very difficult but the TAs are very lenient with the grades. For the exams, make sure you study those practice tests he gives and it helps to guess what extra stuff is going to be on it from any other material given. One of the things he likes to do on the final is program a type of laplace series where he rotates between common ones. Rating: 4/10
+
+---
+
+## ESE 224 — Professor Doboli
+
+Again with Alexa Doboli. More or less the same as ESE 124 but with more difficult content. Rating: 3/10
+
+---
+
+## ESE 344 — Professor Doboli
+
+Took another course with Alexa Doboli. This was his first time teaching the class, and it showed. It is taught in a lazy way where the whole class is basically just leetcode. I could have just grinded leetcode instead of taking this class. For the exams, he took the questions out of his own textbook and if you didn't know that you were screwed. Rating: 4/10

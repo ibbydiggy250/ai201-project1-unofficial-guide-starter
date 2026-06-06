@@ -1,14 +1,39 @@
-Student Comments
-What was valuable about this course? (4)
-Filter Comments
-Data structures themselves are very valuable to know, the labs associated with the course are very valuable in actually programming these data structures. A lot of the time, I found that understanding the data structure and how they work to store data was relatively easy. However, the hard part was to actually code them in C++, which was done during labs. Professor Doboli is very effective in teaching this subject, as well as the co-instructor Bilal El Jamal. Both were extremely knowledgeable on this subject, and thoroughly explained everything. Bilal is very valuable to the teaching of this course, as he provides real-world insight to how these concepts and data structures are actually used in the industry, given that he worked in the industry for many years. I do not know if Bilal will be teaching alongside Professor Doboli again, but I think the combination of Professor Doboli's teaching experience as well as with Bilal's experience in industry made this class very enjoyable.
+# Source: SBU Official Course Evaluation — ESE 224, Professor Alexa Doboli
+
+## What was valuable about this course
+
+Data structures themselves are very valuable to know, and the labs associated with the course are valuable in actually programming these data structures. Professor Doboli is very effective in teaching this subject, as well as the co-instructor Bilal El Jamal. Both were extremely knowledgeable on this subject and thoroughly explained everything. Bilal provides real-world insight into how these concepts and data structures are actually used in industry, given that he worked in the industry for many years. The combination of Professor Doboli's teaching experience with Bilal's industry experience made this class very enjoyable.
+
+---
+
 I did not find this class to be very useful because I had already taken the computer science version of this class.
-Somewhat learned about data structure and how they perform in C++
-Learning C++ and data structure.
-What could be improved about this course? (5)
-Filter Comments
-I think the professor spent too much time on singly/doubly/circular linked lists that we didn't really get a chance to learn the other data structures. Luckily I had already learned about data structures so I was just learning the C++ syntax in this class. I think the tests are questionable because you get a whole cheat sheet and you have to write a whole program from scratch. It sort of defeats the purpose of programming if we just copy and paste data structures that we had coded in labs/lectures and just write them on the test and then the only real test is the main function that we have to write on the test.
-I feel that we spent a very long time on linked lists and its derivatives, and as a result we didn't get to spend as much time on more complicated data structures, such as the tree and BST. We did get to cover a bit on heaps and hash maps, but I wish there was a short lab for them for us to actually implement them to understand them a bit more.
-Professor teaches very badly. Extremely horrible ppt slide with no valuable content taught. Poor handwriting and poor presentation skills.Cannot hear the logic (Unclear logical structure) behind his speech (jumping to conclusions too fast). Sleepy voice.
-Lectures can be more clear and engaging. Class is in 8 am so motivation is really down. The labs are complicated and hard.
-Don't have a suggestion
+
+---
+
+Somewhat learned about data structures and how they perform in C++.
+
+---
+
+Learning C++ and data structures.
+
+---
+
+## What could be improved about this course
+
+The professor spent too much time on singly/doubly/circular linked lists so we didn't really get a chance to learn the other data structures. The tests are questionable because you get a whole cheat sheet and have to write a whole program from scratch. It sort of defeats the purpose of programming if we just copy and paste data structures that we had coded in labs and lectures and write them on the test.
+
+---
+
+We spent a very long time on linked lists and its derivatives, and as a result we didn't get to spend as much time on more complicated data structures, such as the tree and BST. We did get to cover heaps and hash maps, but I wish there was a short lab for them for us to actually implement them.
+
+---
+
+Professor teaches very badly. Extremely poor PowerPoint slides with no valuable content. Poor handwriting and poor presentation skills. Cannot follow the logical structure behind his explanations as he jumps to conclusions too fast. Sleepy voice.
+
+---
+
+Lectures can be more clear and engaging. Class is at 8am so motivation is really low. The labs are complicated and hard.
+
+---
+
+No suggestion for improvement.

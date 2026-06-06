@@ -1,0 +1,267 @@
+[
+  {
+    "text": "## Background and appointment\n\nAlex Doboli, Ph.D., is a Professor in the Department of Electrical and Computer Engineering at Stony Brook University, State University of New York (Stony Brook, NY 11794-2350). Email: alex.doboli@stonybrook.edu. He received his engineering degree in Computer Science and Engineering (valedictorian, Diploma of Merit) from \"Politehnica\" University Timisoara, Romania in 1990, and the \"Doctor\" degree in Computers from the same university in 1997. In 2000 he received the Ph.D. degree in Computer Engineering from the University of Cincinnati, Ohio. He was a junior faculty member at \"Politehnica\" University Timisoara between 1991 and 1997, and joined Stony Brook's Department of Electrical and Computer Engineering in Fall 2000, where he is now a Professor. He is also affiliated with SUNY Korea, Department of ECE.",
+    "source": "alexdooli.txt",
+    "chunk_id": "alexdooli_001"
+  },
+  {
+    "text": "## Research record, publications, and honors\n\nDr. Doboli's research has focused first on Electronic Design Automation (EDA) of analog and mixed-domain systems and Cyber-Physical and embedded systems, and more recently on methodologies and tools for design innovation and data-intensive design, Cyber-Social systems, and Human-inspired Machine Learning. He has published over 170 papers in peer-reviewed journals and conference proceedings, and has advised 17 Ph.D. theses and 12 M.S. theses to graduation. He co-authored with Dr. E. Currie the textbook \"Introduction to Mixed-Signal, Embedded Design\" (Springer, 2010). He received the IBM Partnership Award (2001) and the \"Traian Lalescu\" Award from \"Politehnica\" University Timisoara (1987). He was an Associate Editor for Integration, the VLSI Journal (Elsevier), is an ABET CAC Commissioner, a Senior IEEE Member, and a member of SigmaXi, Upsilon Pi Epsilon, and Tau Beta Pi. His h-index is 27 and i10-index is 64 (2023). He was Vice-Chair of the IEEE Long Island Circuits and Systems Society.",
+    "source": "alexdooli.txt",
+    "chunk_id": "alexdooli_002"
+  },
+  {
+    "text": "## Recent publications\n\nM. Zahedi, N. Gholamrezaei, A. Doboli, \"How Deep is Your Art: An Experimental Study on the Limits of Artistic Understanding in a Single-Task, Single-Modality Neural Network\", PLOS ONE, accepted for publication, June 2024.\nA. Doboli, \"A Framework and a Theoretical Model to Integrate Internet-of-Things with Human Behavior in Teams\", IEEE 3rd Conference on Information Technology and Data Science (CITDS), Aug. 2024.\nG. Villuri, A. Doboli, \"Using Speech Data to Automatically Characterize Team Effectiveness to Optimize Power Distribution in Internet-of-Things Applications\", IEEE 3rd Conference on Information Technology and Data Science (CITDS), Aug. 2024.\nH. Pallapu, G. Villuri, A. Doboli, \"Automatically Understanding Human Behavior for IoT Applications with Optimized Human-in-the-Loop Control\", IEEE International Conference on Synthesis, Modeling, Analysis and Simulation Methods and Applications to Circuit Design (SMACD 2024), July 2024.",
+    "source": "alexdooli.txt",
+    "chunk_id": "alexdooli_003"
+  },
+  {
+    "text": "## Research interests\n\nHis research interests include all aspects of CAD for mixed-domain systems and networks of systems, including specification, modeling, synthesis, and optimization of analog and mixed-signal (analog-digital) circuits, Cyber-Physical and embedded (hardware-software) systems, Systems-on-Chip (SoCs) and SoC networks. Recently his work has focused on methodologies for innovation in electronic design. Specific areas include Human-inspired Machine Learning (modeling of dialog, problem solving, cognitive activities, emotions, social interactions, and knowledge representations); innovation and creativity in electronic design (metrics to capture design innovation, innovation-oriented design methodologies, design taxonomies, and automated design for innovation); EDA for analog and mixed-signal systems (system sizing through optimization, automated topology synthesis, synthesis from VHDL-AMS specifications, circuit modeling and simulation, and reconfigurable ADCs); and Cyber-Physical and embedded systems (specification and optimization of massively distributed systems, data modeling, centralized and decentralized decision making, hardware/software co-design for resource-constrained systems, stochastic and heuristic methods for on-line architecture adaptation, and sensing design in dependable systems).",
+    "source": "alexdooli.txt",
+    "chunk_id": "alexdooli_004"
+  },
+  {
+    "text": "## ESE 124 — Professor Doboli\n\nTook this course with Alexa Doboli. Chill and funny guy, but has really high standards. This was my first experience coding, and we didn't even do a \"Hello World\" – in the first lecture we made a calculator out of case statements instead. This is the first programming class in the major, but he acts like you should have already been programming in high school and this is just a review for you. This class was an insane grind, especially getting those labs done. It didn't help that the TAs (who are grad students) usually didn't even know how to debug the code if you were having trouble in the lab. The final project is very difficult but the TAs are very lenient with the grades. For the exams, make sure you study those practice tests he gives and it helps to guess what extra stuff is going to be on it from any other material given. One of the things he likes to do on the final is program a type of laplace series where he rotates between common ones. Rating: 4/10",
+    "source": "doboliclasses_cleaned.txt",
+    "chunk_id": "doboliclasses_cleaned_001"
+  },
+  {
+    "text": "## ESE 224 — Professor Doboli\n\nAgain with Alexa Doboli. More or less the same as ESE 124 but with more difficult content. Rating: 3/10",
+    "source": "doboliclasses_cleaned.txt",
+    "chunk_id": "doboliclasses_cleaned_002"
+  },
+  {
+    "text": "## ESE 344 — Professor Doboli\n\nTook another course with Alexa Doboli. This was his first time teaching the class, and it showed. It is taught in a lazy way where the whole class is basically just leetcode. I could have just grinded leetcode instead of taking this class. For the exams, he took the questions out of his own textbook and if you didn't know that you were screwed. Rating: 4/10",
+    "source": "doboliclasses_cleaned.txt",
+    "chunk_id": "doboliclasses_cleaned_003"
+  },
+  {
+    "text": "## What was valuable about this course\n\nThe videos that Professor Doboli posts before the labs are extremely helpful as he works through how to complete the problems from the lab. The TAs are a good resource to use when you get stuck as there are a ton of office hours and many have taken the exact same course before. The project at the end of the course although difficult really helps with understanding how to use everything we learned throughout the semester since there is no right way to complete it.",
+    "source": "doboliese124_cleaned.txt",
+    "chunk_id": "doboliese124_cleaned_001"
+  },
+  {
+    "text": "The example code he writes is extremely crucial for how you should be doing the lab, homeworks, and exam problems. Whenever he writes code down you should definitely copy it down as you will find yourself copy and pasting that code a lot and refactoring it. The professor did state in the beginning of the semester that you should be pestering TAs on every single lab question to get a good grade.",
+    "source": "doboliese124_cleaned.txt",
+    "chunk_id": "doboliese124_cleaned_002"
+  },
+  {
+    "text": "I like the fact that we have a lab section where you can ask any coding questions to the TAs, especially considering the fact that there are many nuances with the C programming language. The midterm and final were also very fair, which is a great improvement from previous years.",
+    "source": "doboliese124_cleaned.txt",
+    "chunk_id": "doboliese124_cleaned_003"
+  },
+  {
+    "text": "The most valuable part of this course is that you learn a lot of basics of C programming and understand the software tools.",
+    "source": "doboliese124_cleaned.txt",
+    "chunk_id": "doboliese124_cleaned_004"
+  },
+  {
+    "text": "## What could be improved about this course\n\nWhile I liked Doboli's teaching style, it would benefit students greatly if he included supplementary notes to look over in your own time, mainly due to the fact that the C language is broad and it may be hard to find information online. Make sure that as a student you ask any questions about the lab exercises, as you will lose a lot of points if you do it wrong.",
+    "source": "doboliese124_cleaned.txt",
+    "chunk_id": "doboliese124_cleaned_005"
+  },
+  {
+    "text": "Clearer questions on the lab. More test cases for each coding exercise. This class is intended for complete beginners with no coding experience. However, from the way he covered the content and the difficulty of the tests, I would have borderline failed this course if I came in with no coding experience. ChatGPT, YouTube, and your TAs are your best friends for this course.",
+    "source": "doboliese124_cleaned.txt",
+    "chunk_id": "doboliese124_cleaned_006"
+  },
+  {
+    "text": "Something that everyone would benefit from would be further instruction on how to use a queue or stack for strings and how to properly use ifdefine. More importantly, commented code for the more difficult lab exercises after labs are due would be a helpful resource for students seeking to improve their understanding.",
+    "source": "doboliese124_cleaned.txt",
+    "chunk_id": "doboliese124_cleaned_007"
+  },
+  {
+    "text": "The course can be improved if the labs are group work instead of individual exercises. In addition, the limitation of the functions and methods for each question should be listed on the test paper, so students don't need to spend time asking the professor and TA about each question on the exam.",
+    "source": "doboliese124_cleaned.txt",
+    "chunk_id": "doboliese124_cleaned_008"
+  },
+  {
+    "text": "## What was valuable about this course\n\nData structures themselves are very valuable to know, and the labs associated with the course are valuable in actually programming these data structures. Professor Doboli is very effective in teaching this subject, as well as the co-instructor Bilal El Jamal. Both were extremely knowledgeable on this subject and thoroughly explained everything. Bilal provides real-world insight into how these concepts and data structures are actually used in industry, given that he worked in the industry for many years. The combination of Professor Doboli's teaching experience with Bilal's industry experience made this class very enjoyable.",
+    "source": "doboliese224_cleaned.txt",
+    "chunk_id": "doboliese224_cleaned_001"
+  },
+  {
+    "text": "I did not find this class to be very useful because I had already taken the computer science version of this class.",
+    "source": "doboliese224_cleaned.txt",
+    "chunk_id": "doboliese224_cleaned_002"
+  },
+  {
+    "text": "## What could be improved about this course\n\nThe professor spent too much time on singly/doubly/circular linked lists so we didn't really get a chance to learn the other data structures. The tests are questionable because you get a whole cheat sheet and have to write a whole program from scratch. It sort of defeats the purpose of programming if we just copy and paste data structures that we had coded in labs and lectures and write them on the test.",
+    "source": "doboliese224_cleaned.txt",
+    "chunk_id": "doboliese224_cleaned_003"
+  },
+  {
+    "text": "We spent a very long time on linked lists and its derivatives, and as a result we didn't get to spend as much time on more complicated data structures, such as the tree and BST. We did get to cover heaps and hash maps, but I wish there was a short lab for them for us to actually implement them.",
+    "source": "doboliese224_cleaned.txt",
+    "chunk_id": "doboliese224_cleaned_004"
+  },
+  {
+    "text": "Professor teaches very badly. Extremely poor PowerPoint slides with no valuable content. Poor handwriting and poor presentation skills. Cannot follow the logical structure behind his explanations as he jumps to conclusions too fast. Sleepy voice.",
+    "source": "doboliese224_cleaned.txt",
+    "chunk_id": "doboliese224_cleaned_005"
+  },
+  {
+    "text": "Lectures can be more clear and engaging. Class is at 8am so motivation is really low. The labs are complicated and hard.",
+    "source": "doboliese224_cleaned.txt",
+    "chunk_id": "doboliese224_cleaned_006"
+  },
+  {
+    "text": "## What was valuable about this course\n\nSlightly deeper introduction to data structures and algorithms. You are exposed to more algorithms. I liked using pseudocode because you get the general idea of what should be implemented without being completely constrained to language syntax.",
+    "source": "doboliese344_cleaned.txt",
+    "chunk_id": "doboliese344_cleaned_001"
+  },
+  {
+    "text": "The LeetCode questions were valuable. I really liked how the course forced me to do practice problems that are used by companies in industry. I also learned a lot on how to solve basic graph problems using Dijkstra, DFS, and BFS algorithms using different data structures such as hash tables, queues, heaps, and stacks.",
+    "source": "doboliese344_cleaned.txt",
+    "chunk_id": "doboliese344_cleaned_002"
+  },
+  {
+    "text": "There was nothing valuable coming out from this course. The lectures had no connection to the LeetCode problems assigned. Even going to every lecture was completely useless. I walked out from this class without any extra knowledge because it was very poorly organized and taught.",
+    "source": "doboliese344_cleaned.txt",
+    "chunk_id": "doboliese344_cleaned_003"
+  },
+  {
+    "text": "## What could be improved about this course\n\nCourse is very textbook heavy. Doboli ends up wasting a lot of time regurgitating from the textbook. You are basically studying for the exam when you sit in his lectures as he goes step by step through the algorithms, but just redrawing exactly what is in the textbook over and over seems redundant.",
+    "source": "doboliese344_cleaned.txt",
+    "chunk_id": "doboliese344_cleaned_004"
+  },
+  {
+    "text": "Not horrible for the professor's first time teaching this course, but there were a lot of occasions where students were expected to run before they could walk when it came to the LeetCode homework assignments. Lecture could also be more engaging and test runs of actual code samples would help conceptualize everything better.",
+    "source": "doboliese344_cleaned.txt",
+    "chunk_id": "doboliese344_cleaned_005"
+  },
+  {
+    "text": "The lectures don't feel structured. The professor's pacing is poor and he seems to stay on the same topic for too long. Exams and homework felt relatively fair and he doesn't give surprises on his assignments.",
+    "source": "doboliese344_cleaned.txt",
+    "chunk_id": "doboliese344_cleaned_006"
+  },
+  {
+    "text": "A recitation section or going over LeetCode problems would have been useful. The professor just copied the textbook information to the board and expected us to solve LeetCode problems. Very bad class.",
+    "source": "doboliese344_cleaned.txt",
+    "chunk_id": "doboliese344_cleaned_007"
+  },
+  {
+    "text": "Continue challenging students with hard questions. Focus less on theoretical and more on practical problem solving, as theory is easier to understand after practice.",
+    "source": "doboliese344_cleaned.txt",
+    "chunk_id": "doboliese344_cleaned_008"
+  },
+  {
+    "text": "If you are in Electrical or Computer Engineering, most likely you will have to take Professor Doboli either for ESE 124 (C) or ESE 224 (C++). You could avoid taking him by taking ESE 124 with Jenny or ESE 224 with Xin, but I'd recommend looking them up on course evals first.",
+    "source": "dobolireddit1_cleaned.txt",
+    "chunk_id": "dobolireddit1_cleaned_001"
+  },
+  {
+    "text": "He believes that the best way a student can learn is through exercise and practice, which is what coding in this course is all about — applying what you know.",
+    "source": "dobolireddit1_cleaned.txt",
+    "chunk_id": "dobolireddit1_cleaned_002"
+  },
+  {
+    "text": "Alex Doboli. He's great because instead of just reading off slides he will go into the proof of a specific problem.",
+    "source": "dobolireddit1_cleaned.txt",
+    "chunk_id": "dobolireddit1_cleaned_003"
+  },
+  {
+    "text": "He is Professor Alex Doboli. He is a very knowledgeable person but I felt like he taught the class more like a review than a fundamental class. He is a good person but his teaching style did not suit me personally. I would prefer Professor Jenny Chen over him.",
+    "source": "dobolireddit1_cleaned.txt",
+    "chunk_id": "dobolireddit1_cleaned_004"
+  },
+  {
+    "text": "I watched him struggle to implement a calculator in the first class. Spent 30 minutes on a simple bug, which he didn't address and said he would discuss it next time.",
+    "source": "dobolireddit1_cleaned.txt",
+    "chunk_id": "dobolireddit1_cleaned_005"
+  },
+  {
+    "text": "That's Professor Alex Doboli. He teaches ESE 124, 224, and some other electrical and computer engineering courses. The content he teaches does not help with homework or labs. It's mostly a self-taught class. I would avoid him.",
+    "source": "dobolireddit1_cleaned.txt",
+    "chunk_id": "dobolireddit1_cleaned_006"
+  },
+  {
+    "text": "For ESE 124 the intro course he's not bad. Easy A if you're already good at coding. His workload is heavy — you get labs, homework, and projects and they're all coding assignments.",
+    "source": "dobolireddit1_cleaned.txt",
+    "chunk_id": "dobolireddit1_cleaned_007"
+  },
+  {
+    "text": "## Original Post (student)\n\nDear Alex Doboli — I love your accent, and I love that you decided to show us Reddit reviews of your class. It was fun at first, but now I'm lost. I've been able to understand what you're saying because of ESE 123 and prior coding knowledge, but at this point I realize it's a self-learning class. I'm also not a fan of implementing AI to teach us — I'd rather you just teach us instead of saying \"let's ask the LLM.\" I hope you are reading this because I'm sure many other students feel the same way. Also for any students struggling, the website Coddytech may be a helpful resource for learning coding.",
+    "source": "dobolireddit2_cleaned.txt",
+    "chunk_id": "dobolireddit2_cleaned_001"
+  },
+  {
+    "text": "## Comment — Course TA\n\nHe actually did see this post. I'm one of his TAs, and we are currently discussing ideas about how to better teach the class. This feedback is greatly needed and appreciated. We cannot ignore the growing problem with AI, but we still need to strike the right balance between going all out on AI usage versus completely avoiding it. Both extremes have their own problems. If any students have ideas or suggestions for improvements, we are all in this together and want to improve the class.",
+    "source": "dobolireddit2_cleaned.txt",
+    "chunk_id": "dobolireddit2_cleaned_002"
+  },
+  {
+    "text": "## Original Post (student)\n\nThe new ESE 124 Professor is so so so much better than I was expecting. I took CSE 101 with Tashbook and even though I thought it was pretty good, since so many people were dissing him, I was expecting CSE 114 to be better. It's not. Oh god it is not. Tripathi is an absolute idiot. I'm so glad I took 101 — I learned more from that class in a day than I learned in 114 in a week. What the hell is going on Stony Brook? Not only that, ESE 124 is turning out to be even better at teaching me programming than both 101 and 114, and it's not even a CSE course. Looked up the new Doboli guy for ESE 124 and apparently he used to be a grad professor. Anyway, Professor Doboli, I think you're doing a pretty good job so far! Keep it up!!! :)",
+    "source": "doboliredditgood.txt",
+    "chunk_id": "doboliredditgood_001"
+  },
+  {
+    "text": "## Comment — Alumni (rtilky)\n\nESE 124 used to be taught by a professor who specialized in electro magnetics. Then it was random professors for a bit. Doboli specializes in software. He still teaches grad courses in software CAD approaches. If you're staying for masters (yeah it's a long way off) I'd highly recommend them.",
+    "source": "doboliredditgood.txt",
+    "chunk_id": "doboliredditgood_002"
+  },
+  {
+    "text": "## Comment — Alumni (rtilky)\n\nWhat's also nice is his focus on topics essential to programming for engineers (I cannot stress enough how important bit manipulation is) from the very beginning, rather than just teaching everyone super basic coding. Hopefully everyone will be better prepared for later courses that use C programming. Always used to be one of the weakest points of our department.",
+    "source": "doboliredditgood.txt",
+    "chunk_id": "doboliredditgood_003"
+  },
+  {
+    "text": "## Comment — Original Poster (ln342000)\n\nYup, turned in my first homework last Thursday right before midnight. Already had to do some bit manipulation. It's kinda nice how CSE 101 taught me Python, 114 is going to teach me Java, and now ESE 124 will teach me C. I love how ESE gives you a different and deeper perspective into how programming languages actually interface with hardware. The physics courses here are also pretty good.",
+    "source": "doboliredditgood.txt",
+    "chunk_id": "doboliredditgood_004"
+  },
+  {
+    "text": "## Comment — Student (piedude3)\n\nI found ESE 124 incredibly easy. I hear that this semester they're trying to stop letting students use built in functions as per the request of Ken Short, since in 380 you essentially have to write every individual thing you want to do. I kinda wish it was like that when I took it.",
+    "source": "doboliredditgood.txt",
+    "chunk_id": "doboliredditgood_005"
+  },
+  {
+    "text": "## Comment — Student (RareFaction101)\n\nThat class was super hard for me since I had no programming experience, but thank god I knew a TA who can personally help me.",
+    "source": "doboliredditgood.txt",
+    "chunk_id": "doboliredditgood_006"
+  },
+  {
+    "text": "## Original Post (student)\n\nLast year when I took ESE 124 with Doboli, it went decently till COVID hit, where things in that class turned to hell outta nowhere. For anyone who took Doboli just this past semester, how was the experience?",
+    "source": "doboliredditneutral.txt",
+    "chunk_id": "doboliredditneutral_001"
+  },
+  {
+    "text": "## Comment — Computer Engineering student (Ethane1221)\n\nThe class was terribly managed and the material wasn't communicated very well, but if you're good with C it shouldn't be too bad.",
+    "source": "doboliredditneutral.txt",
+    "chunk_id": "doboliredditneutral_002"
+  },
+  {
+    "text": "## Comment — Student (sbu__)\n\nI took his class his first semester teaching it (fall before COVID) and it really wasn't a bad class. As long as you put the time in and could understand basic programming it should be an easy A. I took it at the same time as CSE 114 so that helped with basic programming knowledge. Only tough part was the final project, everything else was simple with the class topics. So for those going back in person this coming fall it should be better!",
+    "source": "doboliredditneutral.txt",
+    "chunk_id": "doboliredditneutral_003"
+  },
+  {
+    "text": "## Comment — Alumni / Old TA (rtilky)\n\nI was one of the TAs his first semester teaching it. I didn't even understand what you were supposed to do for that final project. That assignment was weird.",
+    "source": "doboliredditneutral.txt",
+    "chunk_id": "doboliredditneutral_004"
+  },
+  {
+    "text": "Course: ESE 124 | Quality: 1.0 | Difficulty: 5.0 | Date: Apr 29, 2026 | Grade: N/A | Attendance: Not Mandatory\nDifficult class for an intro to coding. Lectures are hard to follow: he doesn't use a mic and his handwriting is very small and he refuses to write bigger. No slides or recordings, just handwritten code on the board. Heavily relies on AI during labs and even the TAs use it to answer questions. Bad lecturer and negative attitude, do not recommend taking.\nTags: Tough grader",
+    "source": "dobolirmp_cleaned.txt",
+    "chunk_id": "dobolirmp_cleaned_001"
+  },
+  {
+    "text": "Course: ESE 124 | Quality: 1.0 | Difficulty: 5.0 | Date: Apr 20, 2026 | Grade: A- | Attendance: Not Mandatory\nHe expects you to use AI to learn how to code. Took him over a month into the semester to teach anything. Structure is bad with no slides or recordings. Labs are led by TAs who most of the time use AI to answer questions. Instead of slides he gives you unlabeled board pictures. He also gets defensive about negative comments during lectures.\nTags: Tough grader",
+    "source": "dobolirmp_cleaned.txt",
+    "chunk_id": "dobolirmp_cleaned_002"
+  },
+  {
+    "text": "Course: ESE 124 | Quality: 1.0 | Difficulty: 4.0 | Date: Mar 1, 2026 | Grade: A- | Attendance: Mandatory\nStay away. He makes things needlessly tedious and annoying and depends on an LLM to teach.\nTags: Tough grader, Get ready to read, Participation matters",
+    "source": "dobolirmp_cleaned.txt",
+    "chunk_id": "dobolirmp_cleaned_003"
+  },
+  {
+    "text": "Course: ESE 124 | Quality: 1.0 | Difficulty: 5.0 | Date: Jul 18, 2025 | Grade: Rather not say | Attendance: Mandatory\nIf you don't have prior coding experience, you'll struggle. The lectures are incomprehensible, and both the professor and TAs have a superiority complex. They just use ChatGPT to answer questions, if they respond at all.\nTags: Tough grader, Participation matters, Lecture heavy",
+    "source": "dobolirmp_cleaned.txt",
+    "chunk_id": "dobolirmp_cleaned_004"
+  },
+  {
+    "text": "Course: ESE 327 | Quality: 1.0 | Difficulty: 5.0 | Date: Jun 4, 2024 | Grade: B+ | Attendance: Mandatory\nDefinitely the worst professor I have had so far. The grading is completely based on whether you attend his office hours and sit in the front row. The teaching is average at best.\nTags: Tough grader, Participation matters, Graded by few things",
+    "source": "dobolirmp_cleaned.txt",
+    "chunk_id": "dobolirmp_cleaned_005"
+  }
+]

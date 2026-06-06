@@ -11,6 +11,10 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
+**Domain:** Student experiences with Professor Alexa (Alex) Doboli's courses (ESE 124, 224, 344) at Stony Brook University.
+
+This knowledge is valuable to students deciding whether to take Professor Doboli or how to prepare for his courses, but it is scattered and hard to find through official channels. The university only publishes a faculty bio and aggregate course-evaluation numbers — it doesn't surface the actual qualitative experience: what the lectures are like, how the labs and final project really go, how the AI/self-learning teaching style lands, and how the courses compare to each other. That candid information lives across Rate My Professors, official course-evaluation comments, and several scattered Reddit threads. A RAG system consolidates these perspectives into one place so a student can ask a direct question and get an answer grounded in real reviews.
+
 ---
 
 ## Documents
@@ -20,16 +24,16 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Rate My Professors | 35 student ratings of Prof. Doboli with quality/difficulty scores and written reviews across his courses | documents/dobolirmp_cleaned.txt |
+| 2 | SBU Official Course Evaluation — ESE 124 | Student evaluation comments on the intro C programming course (what was valuable / what could improve) | documents/doboliese124_cleaned.txt |
+| 3 | SBU Official Course Evaluation — ESE 224 | Student evaluation comments on the C++/data-structures course | documents/doboliese224_cleaned.txt |
+| 4 | SBU Official Course Evaluation — ESE 344 | Student evaluation comments on the data structures & algorithms course | documents/doboliese344_cleaned.txt |
+| 5 | Reddit r/SBU — single-student review | One student's reviews of all three Doboli courses (ESE 124/224/344) with ratings | documents/doboliclasses_cleaned.txt |
+| 6 | Reddit r/SBU — teacher rating thread | Comments discussing Prof. Doboli's teaching style and which courses he teaches | documents/dobolireddit1_cleaned.txt |
+| 7 | Reddit r/SBU — "Dear Alex Doboli" thread | Open-letter post about the AI/self-learning teaching style, plus a TA response | documents/dobolireddit2_cleaned.txt |
+| 8 | Reddit r/SBU — "The new ESE 124 Professor" thread | Positive thread praising Doboli vs. other professors, with alumni/TA comments | documents/doboliredditgood.txt |
+| 9 | Reddit r/SBU — "ESE124 — Doboli" thread | Mixed/neutral thread on the pre/post-COVID experience, with alumni and TA replies | documents/doboliredditneutral.txt |
+| 10 | SBU Faculty Page | Factual background: appointment, education, research record, publications, h-index | documents/alexdooli.txt |
 
 ---
 
@@ -41,11 +45,11 @@
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
 **Chunk size:**
-
-**Overlap:**
+1 review/comment per chunk(Anywhere between 100-400 tokens)
+**Overlap: 0**
 
 **Reasoning:**
-
+The documents consists of seperate reviews and comments from Reddit, Classie Evaluations, and RateMyProfessor. Each review is treated as its own chunk because it usually contains a complete opinion or experience. An overlap of 0 tokens is used since the reviews are not part of a continuous thought, and do not rely on surrounding chunks for context. This reduces duplicate information while improving retrieval precision by returning the most relevant reviews directly.
 ---
 
 ## Retrieval Approach
@@ -57,11 +61,11 @@
      support, accuracy on domain-specific text, latency? -->
 
 **Embedding model:**
-
+all-MiniLM-L6-v2
 **Top-k:**
-
+k=5
 **Production tradeoff reflection:**
-
+all-MiniLM-L6-v2 was chosen because it is lightweight, fast, and provides strong semantic search performance for short text documents such as student reviews and comments. A top-k value of 5 balances retrieval quality and context size by returning enough relevant reviews without introducing excessive noise. In a production environment, larger embedding models could improve retrieval accuracy, especially for more complex or domain-specific queries, but would increase computational cost and latency.
 ---
 
 ## Evaluation Plan
@@ -87,9 +91,9 @@
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1. Many students joke around and say random things about the professor. THis could cause issues in the retrieval, as the RAG may pick those jokes up to be actual reviews and put them as the answer. Also many emojis in play so that may cause an issue.
 
-2.
+2. It is an overall negative response. Even though there is some good, variation isn't very high, so the RAG will only have negative information to pull from.
 
 ---
 
@@ -102,7 +106,7 @@
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
 
 ---
-
+![alt text](image.png)
 ## AI Tool Plan
 
 <!-- For each part of the pipeline below, describe:
@@ -116,7 +120,13 @@
      with my specified chunk size and overlap" is a plan. -->
 
 **Milestone 3 — Ingestion and chunking:**
+Tool:: ChatGPT
+Input: The documents folder, the chunking strategy in planning.md.
+Expected output: The documents, now cleaned, removed noise, removed HTML embeddings, and just clear reviews chunked like I specified in the chunking strategy.
 
 **Milestone 4 — Embedding and retrieval:**
+Tool: Claude Code
+Input: My retrieval approach section and pipeline diagram
+Expected output: A script that takes all chunks, loads them into ChromaDB with source metadata, and a retieval function that returns the top 5 chunks with test, sourcefilename, and distance score.
 
 **Milestone 5 — Generation and interface:**

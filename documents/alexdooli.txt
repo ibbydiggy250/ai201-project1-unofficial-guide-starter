@@ -1,0 +1,26 @@
+# Source: Stony Brook University Faculty Page — Professor Alex Doboli (factual background)
+
+## Background and appointment
+
+Alex Doboli, Ph.D., is a Professor in the Department of Electrical and Computer Engineering at Stony Brook University, State University of New York (Stony Brook, NY 11794-2350). Email: alex.doboli@stonybrook.edu. He received his engineering degree in Computer Science and Engineering (valedictorian, Diploma of Merit) from "Politehnica" University Timisoara, Romania in 1990, and the "Doctor" degree in Computers from the same university in 1997. In 2000 he received the Ph.D. degree in Computer Engineering from the University of Cincinnati, Ohio. He was a junior faculty member at "Politehnica" University Timisoara between 1991 and 1997, and joined Stony Brook's Department of Electrical and Computer Engineering in Fall 2000, where he is now a Professor. He is also affiliated with SUNY Korea, Department of ECE.
+
+---
+
+## Research record, publications, and honors
+
+Dr. Doboli's research has focused first on Electronic Design Automation (EDA) of analog and mixed-domain systems and Cyber-Physical and embedded systems, and more recently on methodologies and tools for design innovation and data-intensive design, Cyber-Social systems, and Human-inspired Machine Learning. He has published over 170 papers in peer-reviewed journals and conference proceedings, and has advised 17 Ph.D. theses and 12 M.S. theses to graduation. He co-authored with Dr. E. Currie the textbook "Introduction to Mixed-Signal, Embedded Design" (Springer, 2010). He received the IBM Partnership Award (2001) and the "Traian Lalescu" Award from "Politehnica" University Timisoara (1987). He was an Associate Editor for Integration, the VLSI Journal (Elsevier), is an ABET CAC Commissioner, a Senior IEEE Member, and a member of SigmaXi, Upsilon Pi Epsilon, and Tau Beta Pi. His h-index is 27 and i10-index is 64 (2023). He was Vice-Chair of the IEEE Long Island Circuits and Systems Society.
+
+---
+
+## Recent publications
+
+M. Zahedi, N. Gholamrezaei, A. Doboli, "How Deep is Your Art: An Experimental Study on the Limits of Artistic Understanding in a Single-Task, Single-Modality Neural Network", PLOS ONE, accepted for publication, June 2024.
+A. Doboli, "A Framework and a Theoretical Model to Integrate Internet-of-Things with Human Behavior in Teams", IEEE 3rd Conference on Information Technology and Data Science (CITDS), Aug. 2024.
+G. Villuri, A. Doboli, "Using Speech Data to Automatically Characterize Team Effectiveness to Optimize Power Distribution in Internet-of-Things Applications", IEEE 3rd Conference on Information Technology and Data Science (CITDS), Aug. 2024.
+H. Pallapu, G. Villuri, A. Doboli, "Automatically Understanding Human Behavior for IoT Applications with Optimized Human-in-the-Loop Control", IEEE International Conference on Synthesis, Modeling, Analysis and Simulation Methods and Applications to Circuit Design (SMACD 2024), July 2024.
+
+---
+
+## Research interests
+
+His research interests include all aspects of CAD for mixed-domain systems and networks of systems, including specification, modeling, synthesis, and optimization of analog and mixed-signal (analog-digital) circuits, Cyber-Physical and embedded (hardware-software) systems, Systems-on-Chip (SoCs) and SoC networks. Recently his work has focused on methodologies for innovation in electronic design. Specific areas include Human-inspired Machine Learning (modeling of dialog, problem solving, cognitive activities, emotions, social interactions, and knowledge representations); innovation and creativity in electronic design (metrics to capture design innovation, innovation-oriented design methodologies, design taxonomies, and automated design for innovation); EDA for analog and mixed-signal systems (system sizing through optimization, automated topology synthesis, synthesis from VHDL-AMS specifications, circuit modeling and simulation, and reconfigurable ADCs); and Cyber-Physical and embedded systems (specification and optimization of massively distributed systems, data modeling, centralized and decentralized decision making, hardware/software co-design for resource-constrained systems, stochastic and heuristic methods for on-line architecture adaptation, and sensing design in dependable systems).

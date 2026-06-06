@@ -1,0 +1,35 @@
+# Source: Reddit r/SBU — "The new ESE 124 Professor is..." Post and Responses (positive)
+
+## Original Post (student)
+
+The new ESE 124 Professor is so so so much better than I was expecting. I took CSE 101 with Tashbook and even though I thought it was pretty good, since so many people were dissing him, I was expecting CSE 114 to be better. It's not. Oh god it is not. Tripathi is an absolute idiot. I'm so glad I took 101 — I learned more from that class in a day than I learned in 114 in a week. What the hell is going on Stony Brook? Not only that, ESE 124 is turning out to be even better at teaching me programming than both 101 and 114, and it's not even a CSE course. Looked up the new Doboli guy for ESE 124 and apparently he used to be a grad professor. Anyway, Professor Doboli, I think you're doing a pretty good job so far! Keep it up!!! :)
+
+---
+
+## Comment — Alumni (rtilky)
+
+ESE 124 used to be taught by a professor who specialized in electro magnetics. Then it was random professors for a bit. Doboli specializes in software. He still teaches grad courses in software CAD approaches. If you're staying for masters (yeah it's a long way off) I'd highly recommend them.
+
+---
+
+## Comment — Alumni (rtilky)
+
+What's also nice is his focus on topics essential to programming for engineers (I cannot stress enough how important bit manipulation is) from the very beginning, rather than just teaching everyone super basic coding. Hopefully everyone will be better prepared for later courses that use C programming. Always used to be one of the weakest points of our department.
+
+---
+
+## Comment — Original Poster (ln342000)
+
+Yup, turned in my first homework last Thursday right before midnight. Already had to do some bit manipulation. It's kinda nice how CSE 101 taught me Python, 114 is going to teach me Java, and now ESE 124 will teach me C. I love how ESE gives you a different and deeper perspective into how programming languages actually interface with hardware. The physics courses here are also pretty good.
+
+---
+
+## Comment — Student (piedude3)
+
+I found ESE 124 incredibly easy. I hear that this semester they're trying to stop letting students use built in functions as per the request of Ken Short, since in 380 you essentially have to write every individual thing you want to do. I kinda wish it was like that when I took it.
+
+---
+
+## Comment — Student (RareFaction101)
+
+That class was super hard for me since I had no programming experience, but thank god I knew a TA who can personally help me.
