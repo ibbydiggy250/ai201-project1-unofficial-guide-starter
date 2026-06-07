@@ -130,3 +130,7 @@ Input: My retrieval approach section and pipeline diagram
 Expected output: A script that takes all chunks, loads them into ChromaDB with source metadata, and a retieval function that returns the top 5 chunks with test, sourcefilename, and distance score.
 
 **Milestone 5 — Generation and interface:**
+Tool: Claude Code
+Input: My retrieval approach section, the architecture diagram (Retrieval → LLM Generation), and the grounding requirement (answers from retrieved reviews only, with source attribution).
+Expected output: app.py that passes the top-5 retrieved chunks to Groq's llama-3.3-70b-versatile with a system prompt that forces grounding (answer only from the provided reviews; say "I don't have enough information" otherwise), builds the source list programmatically from chunk metadata, and serves a Gradio interface (answer + source list).
+Verification: run the 5 evaluation questions through the pipeline and compare against expected answers; confirm an off-topic question triggers the "not enough information" refusal instead of a hallucinated answer.
