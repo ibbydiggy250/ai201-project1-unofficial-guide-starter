@@ -93,11 +93,11 @@
 
 | # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
 |---|----------|-----------------|------------------------------|-------------------|-------------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
+| 1 |What are students' general opinion on Professor Doboli? |Mixed-Negative. Some students say hes knoledgable and caring, but that his teaching style is hard to follow and is difficult for beginners |Mixed, some people like that he goes into the proofs instead of slides, but others felt it was lazy and just regurgitating things.  | | |
+| 2 |Is ESE 124 with Doboli beginner-friendly? |Generally no, Professor Doboli teaches like you should know the class beforehand |Hedged: says it's an "easy A" if you're already good at coding and has a heavy workload, but concludes it is "unclear" whether the class is beginner-friendly. | | |
+| 3 |What are the biggest complaints of Professor Dobolis classes? |Unclear lectures, heavy reliance on self learning, and a pace not suitable for beginners |A lazy, textbook-heavy teaching style that feels redundant, a style that doesn't suit everyone, COVID-era disruption, and ESE 344 being too focused on LeetCode. | | |
+| 4 |How do students compare ESE 224 and 124 with Professor Doboli? |224 is just like 124, with slightly harder content and more focused on data structures. |224 is "more or less the same as ESE 124 but with more difficult content"; notes only one review directly compares the two. | | |
+| 5 |What is valuable about ESE124 with Professor Doboli? |Learning C fundamentals is nice, his labs give good hands-on support, and the final project connects things together. |The pre-lab videos, TA support and office hours, and the final project that ties the course together are the valuable parts; one review adds he does a good job teaching programming. | | |
 
 **Retrieval quality:** Relevant / Partially relevant / Off-target  
 **Response accuracy:** Accurate / Partially accurate / Inaccurate
