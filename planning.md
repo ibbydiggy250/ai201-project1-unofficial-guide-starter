@@ -120,14 +120,16 @@ all-MiniLM-L6-v2 was chosen because it is lightweight, fast, and provides strong
      with my specified chunk size and overlap" is a plan. -->
 
 **Milestone 3 — Ingestion and chunking:**
-Tool:: ChatGPT
-Input: The documents folder, the chunking strategy in planning.md.
-Expected output: The documents, now cleaned, removed noise, removed HTML embeddings, and just clear reviews chunked like I specified in the chunking strategy.
+Tool: ChatGPT
+Input: The documents folder and the chunking strategy in planning.md.
+Expected output: chunk_documents.py that reads all .txt files from the documents folder, splits each one on --- separators to produce one chunk per review, and saves everything to data/chunks.json with the text, source filename, and chunk ID for each chunk.
+Verification: run python chunk_documents.py and confirm 53 chunks are produced across all 10 sources, then print 5 random samples and check that each one is a readable, self-contained review with no leftover HTML or boilerplate headers.
 
 **Milestone 4 — Embedding and retrieval:**
 Tool: Claude Code
-Input: My retrieval approach section and pipeline diagram
-Expected output: A script that takes all chunks, loads them into ChromaDB with source metadata, and a retieval function that returns the top 5 chunks with test, sourcefilename, and distance score.
+Input: My retrieval approach section and the pipeline diagram.
+Expected output: embed_and_retrieve.py that embeds all chunks using all-MiniLM-L6-v2, stores them in a ChromaDB collection with source metadata, and a retrieve() function that returns the top 5 chunks with their text, source filename, and distance score.
+Verification: run the 5 evaluation questions through retrieval and confirm the returned chunks are relevant and on-topic with distance scores below 0.5.
 
 **Milestone 5 — Generation and interface:**
 Tool: Claude Code
