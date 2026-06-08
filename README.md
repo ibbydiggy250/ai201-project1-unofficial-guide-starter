@@ -174,3 +174,6 @@ The spec didn't mention any preprocessing beyond splitting on `---`. During impl
      It generated a prompt that was mostly correct. However, if the model didn't know the answer to something, it would just make something up.
 - *What I changed or overrode:*
      I added the "If the provided reviews do not contain enough information to answer, say exactly: "I don't have enough information in the reviews to answer that."" This was important because now, it was able to cut through noise, and not have to make up answers for things it has no context for. 
+
+Demo Video:
+https://www.loom.com/share/700151b1868a485e9e62770b6e5458db
